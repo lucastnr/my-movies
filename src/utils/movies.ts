@@ -1,4 +1,4 @@
-import Parser from "rss-parser";
+
 import { IMovie } from "./interfaces";
 
 const apiKey = "6fa1337347b7701842231382c28df5d6";
