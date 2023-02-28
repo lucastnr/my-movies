@@ -5,4 +5,6 @@ This website is served by a static array of movies and list them based on my Let
 
 ## Future improvements
 
-I'm planning to change this to be served by live data, unfortunately the Letterboxd API is closed. My idea is to fetch RSS data to bypass that.
+I'm not satisfied with the current state of this project, I would love to have it served by live data, but unfortuntately the Letterboxd API is closed.
+
+That's why my idea is to fetch the Letterbox's RSS feed and use it to display data. 
